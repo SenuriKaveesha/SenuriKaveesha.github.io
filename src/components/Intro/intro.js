@@ -22,7 +22,7 @@ const Intro = () => {
     <section id='intro'>
     
       <div className='introContent'>
-        <span className='hello'>Hello,</span>
+        <span className='hello'>Hello, </span>
         <span className='introText'>
           I'm <span className='introName'>Senuri Kaveesha</span> <br /> Undergraduate at Sliit
         </span>
